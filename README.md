@@ -1,5 +1,9 @@
 # PodPaper 🎧 | Turn Documents into Podcasts
 
+![Build Status](https://img.shields.io/badge/Status-Hackathon_Project-blue)
+![Event](https://img.shields.io/badge/Event-AI_Valley_Build_What_You_Love-ff69b4)
+![Tags](https://img.shields.io/badge/Tags-WomenInTech_GenerativeAI_MiniMax-purple)
+
 **PodPaper** is an AI-powered tool that instantly transforms static PDF documents into engaging, two-person podcast episodes. Built for the **AI Valley "Build What You Love" Hackathon**, it leverages **MiniMax**'s advanced audio generation to make learning on the go effortless.
 
 ## 🚀 The Problem
@@ -53,10 +57,15 @@ PodPaper converts written content into a lively audio dialogue between a "Host" 
 4.  Watch as the AI generates a script and synthesized audio.
 5.  Press play to listen to your new podcast!
 
-## 🏆 Hackathon Tracks
-Submitted to **AI Valley: Build What You Love**
-* **MiniMax:** Best use of Voice and LLM APIs.
-* **Replit:** Deployed project.
+## 🏆 Hackathon Tracks & Acknowledgments
+Submitted to **AI Valley: Build What You Love**.
+
+Special thanks to:
+* **AI Valley** for organizing this empowering event for women in tech.
+* **MiniMax** for providing the incredible Voice and LLM APIs that power this app.
+* **Replit** & **Runloop** for the seamless development and deployment infrastructure.
+
+**Tags:** `#WomenInTech` `#AIValley` `#MiniMax` `#GenerativeAI` `#BuildWhatYouLove`
 
 ## 👥 Authors
 * **Riddhi Vyas** - *GenAI Engineer & Data Scientist*
