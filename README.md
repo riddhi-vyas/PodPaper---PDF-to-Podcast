@@ -63,7 +63,7 @@ Submitted to **AI Valley: Build What You Love**.
 Special thanks to:
 * **AI Valley** for organizing this empowering event for women in tech.
 * **MiniMax** for providing the incredible Voice and LLM APIs that power this app.
-* **Replit** & **Runloop** for the seamless development and deployment infrastructure.
+* **Replit** for the seamless development and deployment infrastructure.
 
 **Tags:** `#WomenInTech` `#AIValley` `#MiniMax` `#GenerativeAI` `#BuildWhatYouLove`
 
